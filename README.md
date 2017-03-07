@@ -3,4 +3,4 @@
 - [BLOGS](http://iosgyan.blogspot.in/)
 - [PROFILE](http://www.gyanaranjan.com) 
 
-![Image of Gyan](https://octodex.github.com/images/yaktocat.png)
+![Image of Gyan](https://github.com/GyanRoutray/images/blob/master/gyannn.png)

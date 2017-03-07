@@ -1,6 +1,6 @@
 ## Welcome to GitHub Pages
 
-[BLOGS](http://www.gyanaranjan.com)
+[BLOGS](http://www.gyanaranjan.com) [PROFILE](http://www.gyanaranjan.com) 
 
 You can use the [editor on GitHub](https://github.com/TheGyan/gyan_web/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
 

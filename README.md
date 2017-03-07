@@ -3,4 +3,4 @@
 - [BLOGS](http://iosgyan.blogspot.in/)
 - [PROFILE](http://www.gyanaranjan.com) 
 
-![Image of Gyan](https://github.com/GyanRoutray/images/blob/master/gyannn.png)
+![Image of Gyan](/gyan_white.jpg)

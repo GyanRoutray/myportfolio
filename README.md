@@ -1,5 +1,5 @@
 ## Welcome to Gyan's Portfolio
 
-- [BLOGS](http://www.gyanaranjan.com)
+- [BLOGS](http://iosgyan.blogspot.in/)
 - [PROFILE](http://www.gyanaranjan.com) 
 
